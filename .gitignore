@@ -1,0 +1,52 @@
+# ==========================================
+# NetBeans & Ant Project Build Artifacts
+# ==========================================
+**/build/
+**/dist/
+**/nbbuild/
+**/.nb-gradle/
+
+# NetBeans User-Specific Settings
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+
+# Compiled Java Bytecode & Logs
+*.class
+**/*.class
+*.log
+*.ctxt
+.mtj.tmp/
+
+# Package & Archive Files (Dynamically Generated)
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# ==========================================
+# Other IDEs & Editors
+# ==========================================
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# ==========================================
+# Operating System & Cache Files
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+*.tmp
+*~
